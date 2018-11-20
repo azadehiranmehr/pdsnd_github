@@ -5,7 +5,7 @@ Include the date you created this project and README file.
 Bikeshare data of 3 cities: Chicago, Washington, New York city
 
 ### Description
-Describe what your project is about and what it does
+Show statistic of bikeshare data based on which city, day of a week and a month selected by a user
 
 ### Files used
 washington.csv,new_york.csv, chicago.csv
