@@ -1,15 +1,20 @@
 ### Date created
 Include the date you created this project and README file.
-11/13/2018
+- This project was created on 11/13/2018.
+- This README file was created on 11/20/2018
+
 ### Project Title
 Bikeshare data of 3 cities: Chicago, Washington, New York city
 
 ### Description
-Show statistic of bikeshare data based on which city, day of a week and a month selected by a user
+This program shows statistic of bikeshare data based on which **city**, **day of a week** and **month** selected by a user.
 
 ### Files used
-washington.csv,new_york.csv, chicago.csv
+- washington.csv
+- new_york.csv
+- chicago.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-https://github.com/udacity/pdsnd_github
+
+- [UDACITY github repo](https://github.com/udacity/pdsnd_github)
